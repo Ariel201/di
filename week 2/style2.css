@@ -1,0 +1,33 @@
+/* selector
+property: value;
+}*/
+ 
+body{
+    background-image: url(./background-photo.jpg);
+    background-size: cover;
+}
+
+section ul{
+    
+}
+
+
+h2 h4{
+    color: #AA3C39;
+    text-align: center;
+    border: 5px solid black;
+    cursor: pointer;
+}
+
+p{
+    color: pink;
+}
+
+p{
+    color: blue;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}

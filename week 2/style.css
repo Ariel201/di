@@ -1,0 +1,7 @@
+/* selector:pseudo-class{ 
+property: value;
+}
+
+li:nth-child(2) {
+    background-color: teal;
+}
