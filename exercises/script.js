@@ -33,7 +33,7 @@ let c;
     typeof(15)
 // Prediction: number
 // Actual:
-console.log();
+console.log("hamburger" + "s");
 typeof(5.5)
 // Prediction: number
 // Actual:
