@@ -86,5 +86,10 @@ const p1= document.getElementById('fname')
 const p2= document.getElementById('lname')
 const p3= document.getElementById('submit')
 
-console.log(p3);
+const Fname=document.getElementsByName("firstname")
+const Lname=document.getElementsByName("lastname")
+
+
+
+console.log(Fname);
 

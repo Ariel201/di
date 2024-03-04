@@ -28,8 +28,45 @@
 // }
 
 
-let counter=0
-setInterval(() => {
-    console.log(counter);
-    counter++
-}, 3000);
+// let counter=0
+// let intervalName = setInterval(()=> {
+//     if (counter >=5) {
+//         clearInterval(intervalName)
+//     }
+
+//     console.log( counter);
+//     counter++
+// })
+
+// let count = 0
+// let counterup = setInterval(() => {
+//     if (count == 10) {
+//         clearInterval(counterup)
+//     }
+//     console.log(count);
+//     count++
+// },1000)
+
+// let Counter = 10
+// let countdoun = setInterval(()=> {
+//     if (Counter== 0) {
+//         clearInterval(countdoun)
+//     }
+//     console.log('The sales end in',Counter,'sec');
+//     Counter--
+// },1000)
+
+let body= document.querySelector('body')[0]
+let button = document.createElement('button')
+button.innerHTML = 'Hello button'
+document.body.appendChild(button)
+
+let div = document.getElementById('numbers')
+button.addEventListener('click',()=>{
+    let Num = 0
+    let nuM = setInterval()=>{
+if (condition) {
+    
+}
+    }
+})
