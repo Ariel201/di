@@ -81,7 +81,8 @@
 // }
 // })
 
-const p = document.querySelector('form')
+const form = document.querySelector('form')
+
 const p1= document.getElementById('fname')
 const p2= document.getElementById('lname')
 const p3= document.getElementById('submit')
@@ -89,7 +90,9 @@ const p3= document.getElementById('submit')
 const Fname=document.getElementsByName("firstname")
 const Lname=document.getElementsByName("lastname")
 
-
+form.addEventListener('submit',(event)=>{
+event.preventDefault()
+})
 
 console.log(Fname);
 

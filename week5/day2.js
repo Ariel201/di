@@ -43,7 +43,7 @@ let allBooks = [{
    img:'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRF4L0ncREoigVZcgE4EPp2WgaUW4BGOfB1cpnFsvnHWOCBIYVM1g-55miJZXfce8E_EEcX_c1bUwf6qrfCO1H-Ennnm1u0JucFfUD124GHYqjX_Md4TLnW&usqp=CAc',
    alreadyRead:false
 }, {
-  title:
-  auther:
+  title: 
+  auther
 
 }]
